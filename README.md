@@ -3,7 +3,7 @@
 
 
 ## 😁 About Me
-I'm a front end web developer who loves making interesting user interfaces ...
+I'm a front end web developer who loves making interactive user interfaces ...
 
 
 ## 🔗 Links
